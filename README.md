@@ -1,8 +1,11 @@
-# Basic Sample Hardhat Project
+# Web3 Name service (W3NS NFT Project) 
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+This project demonstrates a basic Hardhat use case. Used in web3 name service as an NFT. It comes with a major contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
 
 Try running some of the following tasks:
+
+
+get a .env file to be able to run thhis project
 
 ```shell
 npx hardhat accounts
@@ -28,5 +31,5 @@ kZmvfh67Isr5e19_2GiYPYcLP-aSd63P
 
 
 
-
+You can contact me on twitter using @holyaustin
 
